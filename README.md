@@ -1,2 +1,3 @@
-# Sistemas-Concurrentes-y-Distribuidos
-Practicas realizadas años atrás en la asignatura de Sistemas Concurrentes y Distribuidos
+# Concurrent And Distributed Systems
+
+Exercises of the subject 'Concurrent and Distributed Systems' completed few years ago.
